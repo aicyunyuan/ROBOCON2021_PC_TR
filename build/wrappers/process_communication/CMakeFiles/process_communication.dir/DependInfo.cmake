@@ -1,0 +1,21 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/action/code/2021/TR/ABU2021_PC_TR/wrappers/process_communication/process_comm.c" "/home/action/code/2021/TR/ABU2021_PC_TR/build/wrappers/process_communication/CMakeFiles/process_communication.dir/process_comm.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../wrappers/process_communication/."
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

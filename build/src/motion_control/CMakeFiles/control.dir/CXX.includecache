@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/action/code/2021/TR/ABU2021_PC_TR/src/motion_control/src/own_serial.cpp
+own_serial.h
+/home/action/code/2021/TR/ABU2021_PC_TR/src/motion_control/src/own_serial.h
+
+/home/action/code/2021/TR/ABU2021_PC_TR/src/motion_control/src/own_serial.h
+stdio.h
+-
+string.h
+-
+sys/types.h
+-
+errno.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+termios.h
+-
+stdlib.h
+-
+signal.h
+-
+string.h
+-
+stdarg.h
+-
+iostream
+-
+

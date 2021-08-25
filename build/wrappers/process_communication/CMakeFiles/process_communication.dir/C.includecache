@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/action/code/2021/TR/ABU2021_PC_TR/wrappers/process_communication/process_comm.c
+process_comm.h
+/home/action/code/2021/TR/ABU2021_PC_TR/wrappers/process_communication/process_comm.h
+
+/home/action/code/2021/TR/ABU2021_PC_TR/wrappers/process_communication/process_comm.h
+stdlib.h
+-
+stdio.h
+-
+sys/shm.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/ipc.h
+-
+errno.h
+-
+pthread.h
+-
+time.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+termios.h
+-
+signal.h
+-
+poll.h
+-
+sys/sem.h
+-
+

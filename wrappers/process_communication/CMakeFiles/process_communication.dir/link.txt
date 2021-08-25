@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprocess_communication.a  CMakeFiles/process_communication.dir/process_comm.c.o
+/usr/bin/ranlib libprocess_communication.a
